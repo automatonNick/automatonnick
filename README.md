@@ -1,7 +1,7 @@
 # Name: Nick
-Currently working with Javascript, Java, PHP, Laravel and Docker
+Currently working with Apache Hive, PL/SQL, Scala.
 <br>
-Just discovered Vuejs and it has changed my life
+Frameworks are my friends
 
 ## Can't wait to learn: C#
-### When not coding I'm: Playing bass/Videogames/Reading
+### Expect music related projects
